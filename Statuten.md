@@ -150,13 +150,13 @@ e) Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz di
 binnen vier Wochen statt.
 
 (3) Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder
-mindestens zwei Wochen vor dem Termin schriftlich, mittels Telefax oder per E-Mail (an die vom Mitglied dem Verein
+mindestens zwei Wochen vor dem Termin schriftlich, per E-Mail (an die vom Mitglied dem Verein
 bekanntgegebene Fax-Nummer oder E-Mail-Adresse) einzuladen. Die Anberaumung der Generalversammlung hat unter
 Angabe der Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a – c),
 durch die/einen Rechnungsprüfer (Abs. 2 lit. d) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. e).
 
 (4) Anträge zur Generalversammlung sind mindestens drei Tage vor dem Termin der Generalversammlung beim Vorstand
-schriftlich, mittels Telefax oder per E-Mail einzureichen.
+schriftlich, per E-Mail einzureichen.
 
 (5) Gültige Beschlüsse – ausgenommen solche über einen Antrag auf Einberufung einer außerordentlichen
 Generalversammlung – können nur zur Tagesordnung gefasst werden.
