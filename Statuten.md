@@ -64,10 +64,9 @@ Ehrenmitglieder sind Personen, die hiezu wegen besonderer Verdienste um den Vere
 (1) Mitglieder des Vereins können alle physischen Personen, die ... , sowie juristische Personen und
 rechtsfähige Personengesellschaften werden.
 
-(2) Über die Aufnahme von ordentlichen und außerordentlichen Mitgliedern entscheiden die ordentlichen 
-Mitglieder bei einem Organisationstreffen. Außerordentliche Mitglieder müssen mehrere Organisationstreffen 
-besucht haben um als ordentliches Mitglied aufgenommen zu werden. Die Aufnahme kann ohne Angabe von Gründen 
-verweigert werden.
+(2) Über die Aufnahme von ordentlichen und außerordentlichen Mitgliedern entscheidet das Organisationstreffen. Außerordentliche Mitglieder müssen in 6 Monaten mindestens 2 Mal das Organisationstreffen 
+besucht haben um als ordentliches Mitglied aufgenommen zu werden. Die Aufnahme kann ohne Angabe von Gründen verweigert
+werden.
 
 (3) Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und außerordentlichen
 Mitgliedern durch die Vereinsgründer, im Fall eines bereits bestellten Vorstands durch diesen.
@@ -92,9 +91,8 @@ Für die Rechtzeitigkeit ist das Datum der Postaufgabe maßgeblich.
 einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist.
 Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hievon unberührt.
 
-(4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand oder den ordentlichen Mitgliedern bei einem
-Organisationstreffen auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens 
-verfügt werden.
+(4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand oder vom Organisationstreffen auch wegen grober
+Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden.
 
 (5) Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über
 Antrag des Vorstands beschlossen werden.
@@ -128,8 +126,8 @@ verpflichtet.
 § 8: Vereinsorgane
 ------------------
 
-Organe des Vereins sind die Generalversammlung (§§ 9 und 10), der Vorstand (§§ 11 bis 13), die Rechnungsprüfer (§ 14)
-und das Schiedsgericht (§ 15).
+Organe des Vereins sind die Generalversammlung (§§ 9 und 10), das Organisationstreffen (§§ 11 und 12), der Vorstand (§§ 13 bis 15), die Rechnungsprüfer (§ 16)
+und das Schiedsgericht (§ 17).
 
 
 § 9: Generalversammlung
@@ -146,9 +144,9 @@ b) schriftlichen Antrag von mindestens einem Zehntel der Mitglieder,
 
 c) Verlangen der Rechnungsprüfer (§ 21 Abs. 5 erster Satz VereinsG),
 
-d) Beschluss der/eines Rechnungsprüfer/s (§ 21 Abs. 5 zweiter Satz VereinsG, § 11 Abs. 2 dritter Satz dieser Statuten),
+d) Beschluss der/eines Rechnungsprüfer/s (§ 21 Abs. 5 zweiter Satz VereinsG, § 13 Abs. 2 dritter Satz dieser Statuten),
 
-e) Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten)
+e) Beschluss eines gerichtlich bestellten Kurators (§ 13 Abs. 2 letzter Satz dieser Statuten)
 
 binnen vier Wochen statt.
 
@@ -203,7 +201,34 @@ h) Beschlussfassung über Statutenänderungen und die freiwillige Auflösung des
 i) Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
 
 
-§ 11: Vorstand
+§ 11: Organisationstreffen
+--------------------------
+
+(1) Das Organisationstreffen findet regulär ein mal im Monat statt.
+
+(2) Das Organisationstreffen besteht aus den ordentlichen Mitgliedern.
+
+(3) Das Organisationstreffen wird von dem Schriftführer/der Schriftführerin, bei Verhinderung von seinem/seiner/ihrem/ihrer
+Stellvertreter/in, spätestens am Vortag schriftlich einberufen.
+
+(4) Beim Organisationstreffen sind alle Mitglieder teilnahmeberechtigt. Stimmberechtigt sind nur die ordentlichen Mitglieder. Jedes Mitglied hat eine Stimme. Die Übertragung des Stimmrechts auf ein anderes Mitglied im
+Wege einer schriftlichen Bevollmächtigung ist nicht zulässig.
+
+(5) Das Organisationstreffen ist ohne Rücksicht auf die Anzahl der Erschienenen beschlussfähig, wenn alle seine Mitglieder eingeladen wurden.
+
+(6) Das Organisationstreffen fasst seine Beschlüsse mit einfacher Stimmenmehrheit der
+abgegebenen gültigen Stimmen.
+
+
+§ 12: Aufgaben des Organisationstreffens
+----------------------------------------
+
+Dem Organisationstreffen sind folgende Aufgaben vorbehalten:
+
+(*) Aufnahme und Ausschluss von ordentlichen und außerordentlichen Vereinsmitgliedern.
+
+
+§ 13: Vorstand
 --------------
 
 (1) Der Vorstand besteht aus sechs Mitgliedern, und zwar aus Obmann/Obfrau und Stellvertreter/in, Schriftführer/in und
@@ -246,7 +271,7 @@ an den Vorstand, im Falle des Rücktritts des gesamten Vorstands an die Generalv
 Rücktritt wird erst mit Wahl bzw Kooptierung (Abs. 2) eines Nachfolgers wirksam.
 
 
-§ 12: Aufgaben des Vorstands
+§ 14: Aufgaben des Vorstands
 ----------------------------
 
 Dem Vorstand obliegt die Leitung des Vereins. Er ist das „Leitungsorgan“ im Sinne des Vereinsgesetzes 2002.
@@ -269,7 +294,7 @@ Einnahmen/Ausgaben und Führung eines Vermögensverzeichnisses als Mindesterford
 (7) Aufnahme und Kündigung von Angestellten des Vereins.
 
 
-§ 13: Besondere Obliegenheiten einzelner Vorstandsmitglieder
+§ 15: Besondere Obliegenheiten einzelner Vorstandsmitglieder
 ------------------------------------------------------------
 
 (1) Der/die Obmann/Obfrau führt die laufenden Geschäfte des Vereins. Der/die Schriftführer/in unterstützt den/die
@@ -297,7 +322,7 @@ Innenverhältnis bedürfen diese jedoch der nachträglichen Genehmigung durch da
 des Kassiers/der Kassierin ihre Stellvertreter/innen.
 
 
-§ 14: Rechnungsprüfer
+§ 16: Rechnungsprüfer
 ---------------------
 
 (1) Zwei Rechnungsprüfer werden von der Generalversammlung auf die Dauer von ... Jahren gewählt.
@@ -313,7 +338,7 @@ Die Rechnungsprüfer haben dem Vorstand über das Ergebnis der Prüfung zu beric
 Übrigen gelten für die Rechnungsprüfer die Bestimmungen des § 11 Abs. 8 bis 10 sinngemäß.
 
 
-§ 15: Schiedsgericht
+§ 17: Schiedsgericht
 --------------------
 
 (1) Zur Schlichtung von allen aus dem Vereinsverhältnis entstehenden Streitigkeiten ist das vereinsinterne
@@ -334,7 +359,7 @@ Mitglieder mit einfacher Stimmenmehrheit. Es entscheidet nach bestem Wissen und 
 vereinsintern endgültig.
 
 
-§ 16: Freiwillige Auflösung des Vereins
+§ 18: Freiwillige Auflösung des Vereins
 ---------------------------------------
 
 (1) Die freiwillige Auflösung des Vereins kann nur in einer Generalversammlung und nur mit Zweidrittelmehrheit der
