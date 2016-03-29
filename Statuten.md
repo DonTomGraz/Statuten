@@ -61,8 +61,7 @@ Ehrenmitglieder sind Personen, die hiezu wegen besonderer Verdienste um den Vere
 § 5: Erwerb der Mitgliedschaft
 ------------------------------
 
-(1) Mitglieder des Vereins können alle physischen Personen, die ... , sowie juristische Personen und
-rechtsfähige Personengesellschaften werden.
+(1) Mitglieder des Vereins können alle physischen Personen werden.
 
 (2) Über die Aufnahme von ordentlichen und außerordentlichen Mitgliedern entscheidet der Vorstand. Die Aufnahme
 kann ohne Angabe von Gründen verweigert werden.
@@ -79,8 +78,7 @@ bis dahin durch die Gründer des Vereins.
 § 6: Beendigung der Mitgliedschaft
 ----------------------------------
 
-(1) Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch
-Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt und durch Ausschluss.
+(1) Die Mitgliedschaft erlischt durch Tod, durch freiwilligen Austritt und durch Ausschluss.
 
 (2) Der Austritt kann nur zum ... erfolgen. Er muss dem Vorstand mindestens ... Monat/e vorher schriftlich
 mitgeteilt werden. Erfolgt die Anzeige verspätet, so ist sie erst zum nächsten Austrittstermin wirksam.
