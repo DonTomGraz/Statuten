@@ -51,11 +51,10 @@ e) ...
 § 4: Arten der Mitgliedschaft
 -----------------------------
 
-(1) Die Mitglieder des Vereins gliedern sich in ordentliche, außerordentliche und Ehrenmitglieder.
+(1) Die Mitglieder des Vereins gliedern sich in ordentliche und außerordentliche.
 
 (2) Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit beteiligen. Außerordentliche Mitglieder
 sind solche, die die Vereinstätigkeit vor allem durch Zahlung eines erhöhten Mitgliedsbeitrags fördern.
-Ehrenmitglieder sind Personen, die hiezu wegen besonderer Verdienste um den Verein ernannt werden.
 
 
 § 5: Erwerb der Mitgliedschaft
@@ -72,8 +71,6 @@ Mitgliedern durch die Vereinsgründer, im Fall eines bereits bestellten Vorstand
 Diese Mitgliedschaft wird erst mit Entstehung des Vereins wirksam. Wird ein Vorstand erst nach Entstehung
 des Vereins bestellt, erfolgt auch die (definitive) Aufnahme ordentlicher und außerordentlicher Mitglieder
 bis dahin durch die Gründer des Vereins.
-
-(4) Die Ernennung zum Ehrenmitglied erfolgt auf Antrag des Vorstands durch die Generalversammlung.
 
 
 § 6: Beendigung der Mitgliedschaft
@@ -93,16 +90,13 @@ Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt h
 (4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer
 Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden.
 
-(5) Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über
-Antrag des Vorstands beschlossen werden.
-
 
 § 7: Rechte und Pflichten der Mitglieder
 ----------------------------------------
 
 (1) Die Mitglieder sind berechtigt, an allen Veranstaltungen des Vereins teilzunehmen und die Einrichtungen
 des Vereins zu beanspruchen. Das Stimmrecht in der Generalversammlung sowie das aktive und passive Wahlrecht
-steht nur den ordentlichen und den Ehrenmitgliedern zu.
+steht nur den ordentlichen zu.
 
 (2) Jedes Mitglied ist berechtigt, vom Vorstand die Ausfolgung der Statuten zu verlangen.
 
@@ -161,8 +155,7 @@ schriftlich, mittels Telefax oder per E-Mail einzureichen.
 (5) Gültige Beschlüsse – ausgenommen solche über einen Antrag auf Einberufung einer außerordentlichen
 Generalversammlung – können nur zur Tagesordnung gefasst werden.
 
-(6) Bei der Generalversammlung sind alle Mitglieder teilnahmeberechtigt. Stimmberechtigt sind nur die ordentlichen und
-die Ehrenmitglieder. Jedes Mitglied hat eine Stimme. Die Übertragung des Stimmrechts auf ein anderes Mitglied im
+(6) Bei der Generalversammlung sind alle Mitglieder teilnahmeberechtigt. Stimmberechtigt sind nur die ordentlichen Mitglieder. Jedes Mitglied hat eine Stimme. Die Übertragung des Stimmrechts auf ein anderes Mitglied im
 Wege einer schriftlichen Bevollmächtigung ist zulässig.
 
 (7) Die Generalversammlung ist ohne Rücksicht auf die Anzahl der Erschienenen beschlussfähig.
@@ -193,11 +186,9 @@ e) Entlastung des Vorstands;
 
 f) Festsetzung der Höhe der Beitrittsgebühr und der Mitgliedsbeiträge für ordentliche und für außerordentliche Mitglieder;
 
-g) Verleihung und Aberkennung der Ehrenmitgliedschaft;
+g) Beschlussfassung über Statutenänderungen und die freiwillige Auflösung des Vereins;
 
-h) Beschlussfassung über Statutenänderungen und die freiwillige Auflösung des Vereins;
-
-i) Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
+h) Beratung und Beschlussfassung über sonstige auf der Tagesordnung stehende Fragen.
 
 
 § 11: Vorstand
