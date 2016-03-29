@@ -219,7 +219,7 @@ außerordentliche Generalversammlung einzuberufen hat.
 Jede Funktion im Vorstand ist persönlich auszuüben.
 
 (4) Der Vorstand wird vom Obmann/von der Obfrau, bei Verhinderung von seinem/seiner/ihrem/ihrer Stellvertreter/in,
-schriftlich oder mündlich einberufen. Ist auch diese/r auf unvorhersehbar lange Zeit verhindert, darf jedes
+schriftlich einberufen. Ist auch diese/r auf unvorhersehbar lange Zeit verhindert, darf jedes
 sonstige Vorstandsmitglied den Vorstand einberufen.
 
 (5) Der Vorstand ist beschlussfähig, wenn alle seine Mitglieder eingeladen wurden und mindestens die Hälfte von
