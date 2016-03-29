@@ -64,8 +64,10 @@ Ehrenmitglieder sind Personen, die hiezu wegen besonderer Verdienste um den Vere
 (1) Mitglieder des Vereins können alle physischen Personen, die ... , sowie juristische Personen und
 rechtsfähige Personengesellschaften werden.
 
-(2) Über die Aufnahme von ordentlichen und außerordentlichen Mitgliedern entscheidet der Vorstand. Die Aufnahme
-kann ohne Angabe von Gründen verweigert werden.
+(2) Über die Aufnahme von ordentlichen und außerordentlichen Mitgliedern entscheiden die ordentlichen 
+Mitglieder bei einem Organisationstreffen. Außerordentliche Mitglieder müssen mehrere Organisationstreffen 
+besucht haben um als ordentliches Mitglied aufgenommen zu werden. Die Aufnahme kann ohne Angabe von Gründen 
+verweigert werden.
 
 (3) Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und außerordentlichen
 Mitgliedern durch die Vereinsgründer, im Fall eines bereits bestellten Vorstands durch diesen.
@@ -90,8 +92,9 @@ Für die Rechtzeitigkeit ist das Datum der Postaufgabe maßgeblich.
 einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist.
 Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt hievon unberührt.
 
-(4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer
-Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden.
+(4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand oder den ordentlichen Mitgliedern bei einem
+Organisationstreffen auch wegen grober Verletzung anderer Mitgliedspflichten und wegen unehrenhaften Verhaltens 
+verfügt werden.
 
 (5) Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über
 Antrag des Vorstands beschlossen werden.
