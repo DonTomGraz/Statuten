@@ -15,7 +15,8 @@ Statuten des Vereins ...
 § 2: Zweck
 ----------
 
-Der Verein, dessen Tätigkeit nicht auf Gewinn gerichtet ist, bezweckt ... .
+Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, fördert einen kreativen und kritischen Umgang mit moderner 
+Informationstechnik, insbesondere mit Fokus auf Datensicherheit und privater Kommunikation im Digitalen.
 
 
 § 3: Mittel zur Erreichung des Vereinszwecks
