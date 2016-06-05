@@ -84,9 +84,7 @@ bis dahin durch die Gründer des Vereins.
 (1) Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch
 Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt und durch Ausschluss.
 
-(2) Der Austritt kann nur zum ... erfolgen. Er muss dem Vorstand mindestens ... Monat/e vorher schriftlich
-mitgeteilt werden. Erfolgt die Anzeige verspätet, so ist sie erst zum nächsten Austrittstermin wirksam.
-Für die Rechtzeitigkeit ist das Datum der Postaufgabe maßgeblich.
+(2) Der Austritt kann jederzeit erfolgen. Er muss dem Vorstand schriftlich mitgeteilt werden und wird spätestens im darauffolgenden Monat durch die bearbeitung durch den Vorstand wirksam.
 
 (3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung unter Setzung
 einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist.
