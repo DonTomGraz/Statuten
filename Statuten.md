@@ -64,16 +64,18 @@ Ehrenmitglieder sind Personen, die hiezu wegen besonderer Verdienste um den Vere
 (1) Mitglieder des Vereins können alle physischen Personen, die ... , sowie juristische Personen und
 rechtsfähige Personengesellschaften werden.
 
-(2) Über die Aufnahme von ordentlichen und außerordentlichen Mitgliedern entscheidet der Vorstand. Die Aufnahme
+(2) Juristische Personen und rechtsfähige Personengesellschaften können ausschließlich die außerordentliche Mitgliedschaft erwerben.
+
+(3) Über die Aufnahme von ordentlichen und außerordentlichen Mitgliedern entscheidet der Vorstand. Die Aufnahme
 kann ohne Angabe von Gründen verweigert werden.
 
-(3) Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und außerordentlichen
+(4) Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und außerordentlichen
 Mitgliedern durch die Vereinsgründer, im Fall eines bereits bestellten Vorstands durch diesen.
 Diese Mitgliedschaft wird erst mit Entstehung des Vereins wirksam. Wird ein Vorstand erst nach Entstehung
 des Vereins bestellt, erfolgt auch die (definitive) Aufnahme ordentlicher und außerordentlicher Mitglieder
 bis dahin durch die Gründer des Vereins.
 
-(4) Die Ernennung zum Ehrenmitglied erfolgt auf Antrag des Vorstands durch die Generalversammlung.
+(5) Die Ernennung zum Ehrenmitglied erfolgt auf Antrag des Vorstands durch die Generalversammlung.
 
 
 § 6: Beendigung der Mitgliedschaft
