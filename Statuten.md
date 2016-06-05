@@ -9,7 +9,7 @@ Statuten des Vereins ...
 
 (2) Er hat seinen Sitz in ... und erstreckt seine Tätigkeit auf ... .
 
-(3) Die Errichtung von Zweigvereinen ist / ist nicht beabsichtigt.
+(3) Die Errichtung von Zweigvereinen ist nicht beabsichtigt.
 
 
 § 2: Zweck
