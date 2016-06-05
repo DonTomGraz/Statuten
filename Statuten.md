@@ -51,9 +51,9 @@ e) ...
 § 4: Arten der Mitgliedschaft
 -----------------------------
 
-(1) Die Mitglieder des Vereins gliedern sich in ordentliche, außerordentliche und Ehrenmitglieder.
+(1) Die Mitglieder des Vereins gliedern sich in ordentliche, fördernden und Ehrenmitglieder.
 
-(2) Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit beteiligen. Außerordentliche Mitglieder
+(2) Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit beteiligen. Fördermitglieder
 sind solche, die die Vereinstätigkeit vor allem durch Zahlung eines erhöhten Mitgliedsbeitrags fördern.
 Ehrenmitglieder sind Personen, die hiezu wegen besonderer Verdienste um den Verein ernannt werden.
 
@@ -64,15 +64,15 @@ Ehrenmitglieder sind Personen, die hiezu wegen besonderer Verdienste um den Vere
 (1) Mitglieder des Vereins können alle physischen Personen, die ... , sowie juristische Personen und
 rechtsfähige Personengesellschaften werden.
 
-(2) Juristische Personen und rechtsfähige Personengesellschaften können ausschließlich die außerordentliche Mitgliedschaft erwerben.
+(2) Juristische Personen und rechtsfähige Personengesellschaften können ausschließlich die Fördermitgliedschaft erwerben.
 
-(3) Über die Aufnahme von ordentlichen und außerordentlichen Mitgliedern entscheidet der Vorstand. Die Aufnahme
+(3) Über die Aufnahme von ordentlichen und fördernden Mitgliedern entscheidet der Vorstand. Die Aufnahme
 kann ohne Angabe von Gründen verweigert werden.
 
-(4) Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und außerordentlichen
+(4) Bis zur Entstehung des Vereins erfolgt die vorläufige Aufnahme von ordentlichen und fördernden 
 Mitgliedern durch die Vereinsgründer, im Fall eines bereits bestellten Vorstands durch diesen.
 Diese Mitgliedschaft wird erst mit Entstehung des Vereins wirksam. Wird ein Vorstand erst nach Entstehung
-des Vereins bestellt, erfolgt auch die (definitive) Aufnahme ordentlicher und außerordentlicher Mitglieder
+des Vereins bestellt, erfolgt auch die (definitive) Aufnahme ordentlicher und fördernder Mitglieder
 bis dahin durch die Gründer des Vereins.
 
 (5) Die Ernennung zum Ehrenmitglied erfolgt auf Antrag des Vorstands durch die Generalversammlung.
@@ -119,7 +119,7 @@ Geschieht dies in der Generalversammlung, sind die Rechnungsprüfer einzubinden.
 
 (6) Die Mitglieder sind verpflichtet, die Interessen des Vereins nach Kräften zu fördern und alles zu unterlassen,
 wodurch das Ansehen und der Zweck des Vereins Abbruch erleiden könnte. Sie haben die Vereinsstatuten und die
-Beschlüsse der Vereinsorgane zu beachten. Die ordentlichen und außerordentlichen Mitglieder sind zur pünktlichen
+Beschlüsse der Vereinsorgane zu beachten. Die ordentlichen und fördernden Mitglieder sind zur pünktlichen
 Zahlung der Beitrittsgebühr und der Mitgliedsbeiträge in der von der Generalversammlung beschlossenen Höhe
 verpflichtet.
 
@@ -193,7 +193,7 @@ d) Genehmigung von Rechtsgeschäften zwischen Rechnungsprüfern und Verein;
 
 e) Entlastung des Vorstands;
 
-f) Festsetzung der Höhe der Beitrittsgebühr und der Mitgliedsbeiträge für ordentliche und für außerordentliche Mitglieder;
+f) Festsetzung der Höhe der Beitrittsgebühr und der Mitgliedsbeiträge für ordentliche und für fördernde Mitglieder;
 
 g) Verleihung und Aberkennung der Ehrenmitgliedschaft;
 
@@ -263,7 +263,7 @@ Einnahmen/Ausgaben und Führung eines Vermögensverzeichnisses als Mindesterford
 
 (5) Verwaltung des Vereinsvermögens;
 
-(6) Aufnahme und Ausschluss von ordentlichen und außerordentlichen Vereinsmitgliedern;
+(6) Aufnahme und Ausschluss von ordentlichen und fördernden Vereinsmitgliedern;
 
 (7) Aufnahme und Kündigung von Angestellten des Vereins.
 
