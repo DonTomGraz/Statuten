@@ -61,8 +61,8 @@ Ehrenmitglieder sind Personen, die hiezu wegen besonderer Verdienste um den Vere
 § 5: Erwerb der Mitgliedschaft
 ------------------------------
 
-(1) Mitglieder des Vereins können alle physischen Personen, die ... , sowie juristische Personen und
-rechtsfähige Personengesellschaften werden.
+(1) Mitglieder des Vereins können alle physischen Personen, die die Vereinsziele unterstützen, 
+sowie juristische Personen und rechtsfähige Personengesellschaften werden.
 
 (2) Juristische Personen und rechtsfähige Personengesellschaften können ausschließlich die Fördermitgliedschaft erwerben.
 
