@@ -135,7 +135,7 @@ und das Schiedsgericht (§ 15).
 -----------------------
 
 (1) Die Generalversammlung ist die „Mitgliederversammlung“ im Sinne des Vereinsgesetzes 2002. Eine ordentliche
-Generalversammlung findet  ...  statt.
+Generalversammlung findet alle zwei Jahre statt.
 
 (2) Eine außerordentliche Generalversammlung findet auf
 
@@ -217,7 +217,7 @@ Sollten auch die Rechnungsprüfer handlungsunfähig sein, hat jedes ordentliche 
 erkennt, unverzüglich die Bestellung eines Kurators beim zuständigen Gericht zu beantragen, der umgehend eine
 außerordentliche Generalversammlung einzuberufen hat.
 
-(3) Die Funktionsperiode des Vorstands beträgt ... Jahre; Wiederwahl ist möglich.
+(3) Die Funktionsperiode des Vorstands beträgt zwei Jahre; Wiederwahl ist möglich.
 Jede Funktion im Vorstand ist persönlich auszuüben.
 
 (4) Der Vorstand wird vom Obmann/von der Obfrau, bei Verhinderung von seinem/seiner/ihrem/ihrer Stellvertreter/in,
@@ -299,7 +299,7 @@ des Kassiers/der Kassierin ihre Stellvertreter/innen.
 § 14: Rechnungsprüfer
 ---------------------
 
-(1) Zwei Rechnungsprüfer werden von der Generalversammlung auf die Dauer von ... Jahren gewählt.
+(1) Zwei Rechnungsprüfer werden von der Generalversammlung auf die Dauer von zwei Jahren gewählt.
 Wiederwahl ist möglich. Die Rechnungsprüfer dürfen keinem Organ – mit Ausnahme der Generalversammlung – angehören,
 dessen Tätigkeit Gegenstand der Prüfung ist.
 
