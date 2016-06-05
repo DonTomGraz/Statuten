@@ -163,7 +163,7 @@ Generalversammlung – können nur zur Tagesordnung gefasst werden.
 
 (6) Bei der Generalversammlung sind alle Mitglieder teilnahmeberechtigt. Stimmberechtigt sind nur die ordentlichen und
 die Ehrenmitglieder. Jedes Mitglied hat eine Stimme. Die Übertragung des Stimmrechts auf ein anderes Mitglied im
-Wege einer schriftlichen Bevollmächtigung ist zulässig.
+Wege einer schriftlichen Bevollmächtigung ist nicht zulässig.
 
 (7) Die Generalversammlung ist ohne Rücksicht auf die Anzahl der Erschienenen beschlussfähig.
 
