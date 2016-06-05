@@ -104,7 +104,7 @@ Antrag des Vorstands beschlossen werden.
 des Vereins zu beanspruchen. Das Stimmrecht in der Generalversammlung sowie das aktive und passive Wahlrecht
 steht nur den ordentlichen und den Ehrenmitgliedern zu.
 
-(2) Die Statuten sind online zur Verfügung zu stellen. Jedes Mitglied ist berechtigt, vom Vorstand die Ausfolgung der Statuten zu verlangen.
+(2) Die Statuten sind im Internet zu veröffentlichen. Jedes Mitglied ist berechtigt, vom Vorstand die Ausfolgung der Statuten zu verlangen.
 
 (3) Mindestens ein Zehntel der Mitglieder kann vom Vorstand die Einberufung einer Generalversammlung verlangen.
 
