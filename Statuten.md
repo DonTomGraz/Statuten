@@ -37,7 +37,7 @@ e) ...
 
 (3) Die erforderlichen materiellen Mittel sollen aufgebracht werden durch
 
-a) Beitrittsgebühren und Mitgliedsbeiträge
+a) Mitgliedsbeiträge
 
 b) ...
 
