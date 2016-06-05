@@ -7,7 +7,7 @@ Statuten des Vereins ...
 
 (1) Der Verein  führt den Namen „...“.
 
-(2) Er hat seinen Sitz in ... und erstreckt seine Tätigkeit auf ... .
+(2) Er hat seinen Sitz in Graz und erstreckt seine Tätigkeit weltweit.
 
 (3) Die Errichtung von Zweigvereinen ist nicht beabsichtigt.
 
