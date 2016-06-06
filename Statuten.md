@@ -26,15 +26,14 @@ Informationstechnik, insbesondere mit Fokus auf Datensicherheit und privater Kom
 
 (2) Als ideelle Mittel dienen
 
-a) ...
-
-b) ...
-
-c) ...
-
-d) ...
-
-e) ...
+a) Vorträge, Workshops und Diskussionsveranstaltungen
+b) Wissens- und Erfahrungsaustausch, Hilfestellung und Beratung
+c) gesellige Zusammenkünfte und Versammlungen
+d) Herausgabe von Publikationen, Flyern und sonstiges Informationsmaterial
+e) Webseite, Social Media, Newsletter, Mailinglisten
+f) Beteiligung an Veranstaltungen, Projekten und Vereinen mit ähnlichen Zielen
+h) Projekte für Jungendliche
+i) Kunstprojekte
 
 (3) Die erforderlichen materiellen Mittel sollen aufgebracht werden durch
 
