@@ -40,13 +40,11 @@ e) ...
 
 a) Mitgliedsbeiträge
 
-b) ...
+b) Spenden
 
-c) ...
+c) Förderungen
 
-d) ...
-
-e) ...
+d) Erträge aus Veranstaltungen, Publikationen und Sponsorbeiträge
 
 
 § 4: Arten der Mitgliedschaft
