@@ -18,6 +18,18 @@ Statuten des Vereins ...
 Der Verein, dessen Tätigkeit nicht auf Gewinn ausgerichtet ist, fördert einen kreativen und kritischen Umgang mit moderner 
 Informationstechnik, insbesondere mit Fokus auf Datensicherheit und privater Kommunikation im Digitalen.
 
+Der Verein verpflichtet sich den Werten der:
+
+a) Menschenrechtskonvention und Demokratie;
+
+b) Privatsphäre: Datensicherheit, Datenschutz und Recht auf Verschlüsselung;
+
+c) Open Knowledge: Free and Open-Source Software, offene Formate, Standards und Lizenzen;
+
+d) Gleichberechtigung, Respekt- und Rücksichtsvoller Umgang, Ermächtigung von Nutzern;
+
+e) Transparenz: Offene Strukturen und offener Umgang mit Problemen.
+
 
 § 3: Mittel zur Erreichung des Vereinszwecks
 --------------------------------------------
