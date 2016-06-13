@@ -38,31 +38,33 @@ e) Transparenz: Offene Strukturen und offener Umgang mit Problemen.
 
 (2) Als ideelle Mittel dienen
 
-a) Vorträge, Workshops und Diskussionsveranstaltungen
+a) Vorträge, Workshops und Diskussionsveranstaltungen;
 
-b) Wissens- und Erfahrungsaustausch, Hilfestellung und Beratung
+b) Wissensvermittlung und Erfahrungsaustausch, Hilfestellung und Beratung;
 
-c) gesellige Zusammenkünfte und Versammlungen
+c) Veranstaltungen und Projekte zusammen mit Jugendlichen;
 
-d) Herausgabe von Publikationen, Flyern und sonstiges Informationsmaterial
+d) Veranstaltungen und Projekte von Frauen für Frauen;
 
-e) Webseite, Social Media, Newsletter, Mailinglisten
+e) Herausgabe von Publikationen, Flyern und sonstiges Informationsmaterial;
 
-f) Beteiligung an Veranstaltungen, Projekten und Vereinen mit ähnlichen Zielen
+f) Öffentlichkeitsarbeit: Webseite, Social Media, Newsletter, Mailinglisten;
 
-h) Projekte für Jungendliche
+g) gesellige Zusammenkünfte und Versammlungen;
 
-i) Kunstprojekte
+h) Beteiligung an Kunst und Medienprojekten;
+
+i) Beteiligung an Veranstaltungen, Projekten und Vereinen mit ähnlichen Zielen.
 
 (3) Die erforderlichen materiellen Mittel sollen aufgebracht werden durch
 
-a) Mitgliedsbeiträge
+a) Mitgliedsbeiträge;
 
-b) Spenden
+b) Spenden;
 
-c) Förderungen
+c) Förderungen und Subventionen;
 
-d) Erträge aus Veranstaltungen, Publikationen und Sponsorbeiträge
+d) Erträge aus Veranstaltungen, Publikationen und Sponsorbeiträge.
 
 
 § 4: Arten der Mitgliedschaft
