@@ -60,7 +60,7 @@ i) Beteiligung an Veranstaltungen, Projekten und Vereinen mit ähnlichen Zielen.
 
 a) Mitgliedsbeiträge;
 
-b) Spenden;
+b) Spenden, Vermächtnisse und andere Zuwendungen;
 
 c) Förderungen und Subventionen;
 
