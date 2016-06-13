@@ -42,7 +42,7 @@ a) Vorträge, Workshops und Diskussionsveranstaltungen;
 
 b) Wissensvermittlung und Erfahrungsaustausch, Hilfestellung und Beratung;
 
-c) Veranstaltungen und Projekte zusammen mit Jugendlichen;
+c) Veranstaltungen und Projekte für und zusammen mit Kindern und Jugendlichen;
 
 d) Veranstaltungen und Projekte von Frauen für Frauen;
 
