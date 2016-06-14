@@ -74,7 +74,7 @@ d) Erträge aus Veranstaltungen, Publikationen und Sponsorbeiträge.
 
 (2) Ordentliche Mitglieder sind jene, die sich voll an der Vereinsarbeit beteiligen. Fördermitglieder
 sind solche, die die Vereinstätigkeit vor allem durch Zahlung eines erhöhten Mitgliedsbeitrags fördern.
-Ehrenmitglieder sind Personen, die hiezu wegen besonderer Verdienste um den Verein ernannt werden.
+Ehrenmitglieder sind Personen, die hiezu wegen besonderer Verdienste um den Verein ernannt werden. 
 
 
 § 5: Erwerb der Mitgliedschaft
@@ -102,7 +102,7 @@ bis dahin durch die Gründer des Vereins.
 (1) Die Mitgliedschaft erlischt durch Tod, bei juristischen Personen und rechtsfähigen Personengesellschaften durch
 Verlust der Rechtspersönlichkeit, durch freiwilligen Austritt und durch Ausschluss.
 
-(2) Der Austritt kann jederzeit erfolgen. Er muss dem Vorstand schriftlich mitgeteilt werden und wird spätestens im darauffolgenden Monat durch die bearbeitung durch den Vorstand wirksam.
+(2) Der Austritt kann jederzeit erfolgen. Er muss dem Vorstand schriftlich mitgeteilt werden.
 
 (3) Der Vorstand kann ein Mitglied ausschließen, wenn dieses trotz zweimaliger schriftlicher Mahnung unter Setzung
 einer angemessenen Nachfrist länger als sechs Monate mit der Zahlung der Mitgliedsbeiträge im Rückstand ist.
@@ -111,8 +111,12 @@ Die Verpflichtung zur Zahlung der fällig gewordenen Mitgliedsbeiträge bleibt h
 (4) Der Ausschluss eines Mitglieds aus dem Verein kann vom Vorstand auch wegen grober Verletzung anderer
 Mitgliedspflichten und wegen unehrenhaften Verhaltens verfügt werden.
 
-(5) Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über
+(5) Die Ehrenmitgliedschaft erlischt nach 5 Jahren und kann auf Beschluss des Vereinsvorstandes beliebig oft verlängert werden.
+
+(6) Die Aberkennung der Ehrenmitgliedschaft kann aus den im Abs. 4 genannten Gründen von der Generalversammlung über
 Antrag des Vorstands beschlossen werden.
+
+
 
 
 § 7: Rechte und Pflichten der Mitglieder
@@ -124,7 +128,7 @@ steht nur den ordentlichen und den Ehrenmitgliedern zu.
 
 (2) Die Statuten sind im Internet zu veröffentlichen. Jedes Mitglied ist berechtigt, vom Vorstand die Ausfolgung der Statuten zu verlangen.
 
-(3) Mindestens ein Zehntel der Mitglieder kann vom Vorstand die Einberufung einer Generalversammlung verlangen.
+(3) Mindestens ein Zehntel der stimmberechtigten Mitglieder kann vom Vorstand die Einberufung einer Generalversammlung verlangen.
 
 (4) Die Mitglieder sind in jeder Generalversammlung vom Vorstand über die Tätigkeit und finanzielle Gebarung des
 Vereins zu informieren. Wenn mindestens ein Zehntel der Mitglieder dies unter Angabe von Gründen verlangt, hat
